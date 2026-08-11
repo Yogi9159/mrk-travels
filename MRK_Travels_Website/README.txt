@@ -20,8 +20,4 @@ The phone and WhatsApp number are set to:
 
 The booking form opens WhatsApp and creates a formatted booking message.
 
-## Before publishing
-- Add your real cab photos/logo if available.
-- Add exact service/fare details.
-- Confirm the business phone number.
-- For a custom domain, buy a domain such as `mrktravels.in` or another available name.
+
